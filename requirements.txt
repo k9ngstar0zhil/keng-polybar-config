@@ -1,0 +1,3 @@
+Jetbrains-mono font
+Jetbrains-mono-nerd font
+Polybar
