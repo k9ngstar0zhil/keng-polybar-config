@@ -1,3 +1,4 @@
-Jetbrains-mono font
+alsa
+polybar
+Jetbrains mono font
 Jetbrains-mono-nerd font
-Polybar
